@@ -6,14 +6,10 @@ public class obtenerPos : MonoBehaviour
 {
     // Start is called before the first frame update
   void Start() {
-    GameObject[] allObjects = FindObjectsOfType<GameObject>();
-    foreach (GameObject obj in allObjects) {
-      Debug.Log("Nombre: " + obj.name + " Posicion: " + obj.transform.position + "Tag: " + obj.tag);
-    }
   }
 
     // Update is called once per frame
   void Update() {
-        
+    Debug.Log("Nombre: " + name + " Posicion: " + transform.position + "Tag: " + tag);
   }
 }
