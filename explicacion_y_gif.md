@@ -11,7 +11,7 @@ Para esta práctica, se ha creado una escena 3D básica utilizando el editor de 
 
 5. **Cada objeto debe tener una etiqueta que lo identifique**: Cada uno de los objetos añadidos a la escena ha sido etiquetado de manera adecuada para facilitar su identificación. Por ejemplo, los objetos básicos como el cubo y la esfera tienen las etiquetas "Cubo" y "Esfera", respectivamente.
 
-6. **Uso de Prefabs**: Se ha utilizado el prefab del paquete Starter Asset de tercera persona del personaje controlado por el usuario. ADemás de este prefab se han usado otros prefabs del paquete PolyPerfect como lo puede ser el espantapájaros.
+6. **Uso de Prefabs**: Se ha utilizado el prefab del paquete Starter Asset de tercera persona del personaje controlado por el usuario. Además de este prefab se han usado otros prefabs del paquete PolyPerfect como lo puede ser el espantapájaros.
 
 7. **Script de Consola**: Se ha añadido un script que imprime en la consola la posición de cada uno de los objetos colocados en la escena. Para ello obtiene el transform.position del objeto y lo imprime. Después se le ha asignado este script a todos los objetos de la escena.
 # Ejecución de la práctica 
